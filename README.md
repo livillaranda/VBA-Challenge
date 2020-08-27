@@ -1,4 +1,4 @@
-### VBA-Challenge
+### VBA_Challenge
 
 VBA code created to run nested "for Loops" with conditionals to generate a summary table, which includes color formatting. Summary table is created from provided "stock prices" data.
 
